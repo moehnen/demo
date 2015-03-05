@@ -11,9 +11,7 @@
 angular
   .module('demoApp', [
     'ngAnimate',
-    'ngCookies',
-    'ngRoute',
-    'ngSanitize'
+    'ngRoute'
   ])
   .config(function ($routeProvider) {
     $routeProvider
