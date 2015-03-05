@@ -8,4 +8,4 @@
  * Constant in the demoApp.
  */
 angular.module('demoApp')
-  .constant('name', 42);
+  .constant('name', 'demoApp');
